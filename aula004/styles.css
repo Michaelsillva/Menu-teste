@@ -56,7 +56,7 @@ main{
     box-shadow: 2px 2px 8px #00000086;
     border-radius: 10px;
     line-height: 1.3em;
-    width: 400px;
+    width: 320px;
     transition: width 0.7s, heiht 0.7s;
     
 }
